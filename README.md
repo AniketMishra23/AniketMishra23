@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Front end Web developer<br>🌱 I’m currently learning Artificial Intelligence<br>I'm currently improving Machine learning skills by making projects.
+🔭 I’m currently working as an intern Front end Web developer<br>🌱 I’m currently learning Artificial Intelligence<br>I'm currently improving Machine learning skills by making projects.
 
 
 ## 🌐 Socials:
