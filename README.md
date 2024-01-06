@@ -12,6 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AniketMishra23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketMishra23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+[![AniketMishra23's GitHub | Stats](https://stats.quine.sh/AniketMishra23/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AniketMishra23)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
