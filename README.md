@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working as an intern Front end Web developer<br>🌱 I’m currently learning Artificial Intelligence<br>I'm currently improving Machine learning skills by making projects.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AniketMishra23&label=Profile%20views&color=0e75b6&style=flat" alt="AniketMishra23" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-mishra-638309174/) 
